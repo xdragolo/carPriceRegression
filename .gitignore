@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+__pycache__/
+all_anonymized_2015_11_2017_03.csv
+venv/
